@@ -39,13 +39,13 @@ It provides a clear view of business performance using KPIs, trend analysis, and
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ## 📊 Key Insights
 
-![Insights](insights.png)
+![Insights](Insights.png)
 
 * Portland finished the year strongly, surpassing 1,000 sales in December
 * Return volume for High Top increased in Mexico, indicating a potential product issue
